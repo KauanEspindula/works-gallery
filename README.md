@@ -1,6 +1,6 @@
 <h1 align=center > Works Gallery </h1>
 
-<p align=center><strong>Works Gallery</strong> tem como objetivo <em>destacar trabalhos recem feitos</em> de uma determinada entidade</p>
+<p align=center><strong>Works Gallery</strong> tem como objetivo <em>destacar trabalhos recém feitos</em> de uma determinada entidade</p>
 
 <br />
 
