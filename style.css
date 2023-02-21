@@ -6,6 +6,15 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  width: 0.6rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--white);
+  border-radius: 10px;
+}
+
 :root {
   font-size: 62.5%;
 
