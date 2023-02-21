@@ -46,4 +46,4 @@
 
 <br />
 
-Você pode acessar o layout no figma através [DESSE LINK](https://www.figma.com/file/sKWePDyLi3TtGphphy6tYk/Explorer-Stage-03-Projeto-03/duplicate). Para sua Visualização é necessario ter conta no [Figma](https://www.figma.com/).
+Você pode acessar o layout no figma através [DESSE LINK](https://www.figma.com/file/sKWePDyLi3TtGphphy6tYk/Explorer-Stage-03-Projeto-03/duplicate). Para sua visualização é necessario ter conta no [Figma](https://www.figma.com/).
