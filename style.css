@@ -144,14 +144,6 @@ main .card img {
   filter: brightness(0.6);
 }
 
-main .card img:hover {
-  transform: scale(1.1);
-  filter: brightness(1);
-
-  position: relative;
-  z-index: 1;
-}
-
 main .card h2 {
   font-size: var(--big-fs);
   line-height: var(--big-lh);
@@ -246,5 +238,13 @@ main .card span {
   }
   .card:nth-child(4) {
     grid-area: IV;
+  }
+
+  main .card img:hover {
+    transform: scale(1.1);
+    filter: brightness(1);
+
+    position: relative;
+    z-index: 1;
   }
 }
