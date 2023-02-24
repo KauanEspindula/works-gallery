@@ -32,7 +32,7 @@
 
 <br />
 
-<p align=center> <img src=".github/preview-2.png" alt="Preview do projeto no celular." /> </p>
+<p align=center> <img src=".github/preview-2.png" alt="Preview do projeto no celular." width=50%/> </p>
 
 <br />
 

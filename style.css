@@ -160,6 +160,16 @@ main .card h2 {
   animation: card-text-summon 2s 1.5s backwards;
 }
 
+@keyframes card-text-summon {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
 main .card span {
   width: fit-content;
 
@@ -173,16 +183,6 @@ main .card span {
   color: var(--black);
 
   border-radius: 1.9rem;
-}
-
-@keyframes card-text-summon {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
 }
 
 @media (max-width: 330px) {
@@ -241,7 +241,7 @@ main .card span {
   }
 
   main .card img:hover {
-    transform: scale(1.1);
+    transform: scale(1.05);
     filter: brightness(1);
 
     position: relative;
